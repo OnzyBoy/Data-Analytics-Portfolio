@@ -18,6 +18,17 @@ An interactive **Power BI dashboard** that visualizes global and regional blood 
 
 ---
 
+### 🚗 [CarSalesUK Analysis](https://github.com/OnzyBoy/CarMarket-Price-Insights)
+A **Power BI case study** exploring trends and insights in the UK car sales market.  
+**Key highlights:**
+- Analyzed vehicle prices, mileage, and age relationships.  
+- Created visual comparisons by brand, model, and fuel type.  
+- Built multi-page dashboards focusing on price distribution and market segments.  
+
+**Tools:** Power BI, Excel, DAX, Data Cleaning
+
+---
+
 ### 🎓 [CDAV Capstone Project](https://github.com/OnzyBoy/CDAV_Capstone-Project)
 A comprehensive **capstone project** completed as part of the Google Data Analytics Professional Certificate at Strathmore University.  
 **Key highlights:**  
@@ -25,7 +36,6 @@ A comprehensive **capstone project** completed as part of the Google Data Analyt
 - Presented findings through clear visual storytelling.
 
 **Tools:** Python (Pandas, Seaborn, Matplotlib, Statsmodels, Scikit-learn, ipywidgets)
-
 
 ---
 
