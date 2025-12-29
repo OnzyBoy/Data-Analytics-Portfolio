@@ -7,6 +7,18 @@ This repository showcases selected data analytics projects and case studies that
 
 ## 📊 Projects
 
+
+### 🤖 [AI Job Impact 2030 – Data Analysis](https://github.com/OnzyBoy/ai_job_impact_2030)
+A data analysis project exploring the **impact of Artificial Intelligence on jobs by 2030**, focusing on automation risk, job growth, and skill shifts.  
+**Key highlights:**
+- Performed exploratory data analysis (EDA) on AI-related job impact data.  
+- Analyzed trends across industries, job roles, and automation likelihood.  
+- Generated insights on future workforce transformation driven by AI.
+
+**Tools:** Python (Pandas, Matplotlib/Seaborn), Jupyter Notebook, Data Analysis
+
+---
+
 ### 🩸 [Blood Group Analysis Dashboard](https://github.com/OnzyBoy/global-blood-distribution-analysis)
 An interactive **Power BI dashboard** that visualizes global and regional blood type distributions.  
 **Key highlights:**
