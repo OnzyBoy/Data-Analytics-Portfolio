@@ -7,6 +7,17 @@ This repository showcases selected data analytics projects and case studies that
 
 ## 📊 Projects
 
+### 💳 [Financial Inclusion in East Africa](https://github.com/OnzyBoy/Financial-Inclusion-in-East-Africa)
+A machine learning project predicting the likelihood of individuals owning a bank account across East Africa using demographic and socioeconomic data.  
+**Key highlights:**
+- Performed data cleaning, preprocessing, and feature engineering.  
+- Conducted exploratory data analysis to identify financial inclusion trends.  
+- Built predictive models to classify bank account ownership.
+
+**Tools:** Python, Pandas, Scikit-learn, Matplotlib, Google Colab, Tableau
+
+---
+
 
 ### 🤖 [AI Job Impact 2030 – Data Analysis](https://github.com/OnzyBoy/ai_job_impact_2030)
 A data analysis project exploring the **impact of Artificial Intelligence on jobs by 2030**, focusing on automation risk, job growth, and skill shifts.  
